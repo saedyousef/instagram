@@ -1,0 +1,26 @@
+{
+    "name": "saedyousef/instagram",
+    "description": "Integrate with Instagram APIs",
+    "license": "MIT",
+    "type": "library",
+    "authors": [
+        {
+            "name": "Saed Yousef",
+            "email": "saed.alzaben@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "extra": {
+        "laravel": {
+            "providers": [
+                "saedyousef\\instagram\\InstagramServiceProvider"
+            ]
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Saedyousef\\Instagram\\": "src/"
+        }
+    }
+}
