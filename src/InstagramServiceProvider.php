@@ -1,6 +1,6 @@
 <?php
 
-namespace Saedyousef\Instagram;
+namespace SaedYousef\Instagram;
 
 use Illuminate\Support\ServiceProvider;
 
