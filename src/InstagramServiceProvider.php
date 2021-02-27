@@ -13,7 +13,7 @@ class InstagramServiceProvider extends ServiceProvider
      */
     public function register()
     {
-        //
+        $this->app->make('saedyousef\instagram\TestController');
     }
 
     /**
