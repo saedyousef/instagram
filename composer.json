@@ -14,13 +14,13 @@
     "extra": {
         "laravel": {
             "providers": [
-                "saedyousef\\instagram\\InstagramServiceProvider"
+                "Saedyousef\\Instagram\\InstagramServiceProvider"
             ]
         }
     },
     "autoload": {
         "psr-4": {
-            "Saedyousef\\Instagram\\": "src/"
+            "Saedyousef\\Instagram\\": "packages/saedyousef/instagram/src/"
         }
     }
 }
