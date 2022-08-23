@@ -1,3 +1,3 @@
 # Instagram
 
-### Integrate with Instagram APIs
+### Integrate Client Interface
